@@ -1,8 +1,14 @@
 import React from "react";
-import HelloDiv from "./components/Jumbotron/Jumbotron";
+import Jumbotron from "./components/Jumbotron/Jumbotron";
+import Nav from "./components/Navbar/Navbar"
 
 function App() {
-  return <HelloDiv />;
+  return (
+    <div>
+  <Jumbotron/>
+  <Nav/>
+  </div>);
+
 }
 
 export default App;
