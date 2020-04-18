@@ -1,0 +1,15 @@
+.navbar {
+    background-color: aqua;
+}
+.navbar-brand {
+    float: left;
+    margin-left: 20px;
+}
+.nav-message {
+    float: right;
+    margin-right: 10px;
+}
+.nav-score {
+    float: right;
+    margin-right: 10px;
+}

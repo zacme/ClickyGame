@@ -5,8 +5,9 @@ import Nav from "./components/Navbar/Navbar"
 function App() {
   return (
     <div>
+      <Nav/>
   <Jumbotron/>
-  <Nav/>
+  
   </div>);
 
 }

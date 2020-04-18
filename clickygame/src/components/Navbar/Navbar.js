@@ -1,7 +1,8 @@
 import React from "react";
+import "./Navbar.css";
 
 const Nav = (props) => (
-    <nav classname= "navbar navbar-expand-lg bg-primary">
+    <nav classname= "navbar" expand="lg" bg="dark">
         <a className="navbar-brand" href="/">
             Clicky Game
         </a>
