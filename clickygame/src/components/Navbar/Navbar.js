@@ -2,7 +2,7 @@ import React from "react";
 import "./Navbar.css";
 
 const Nav = (props) => (
-    <div classname="navbar bg-dark">
+    <nav classname="navbar bg-dark">
         <div className="row">
             <div className="col-md-4">
                 <a className="navbar-brand" href="/">
@@ -17,7 +17,7 @@ const Nav = (props) => (
 
             </div>
         </div>
-        </div>
+    </nav>
 );
 
 export default Nav;
