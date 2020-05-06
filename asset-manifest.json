@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ClickyGame/static/css/main.bcbe7034.chunk.css",
-    "main.js": "/ClickyGame/static/js/main.cc241500.chunk.js",
-    "main.js.map": "/ClickyGame/static/js/main.cc241500.chunk.js.map",
-    "runtime-main.js": "/ClickyGame/static/js/runtime-main.1d742c2c.js",
-    "runtime-main.js.map": "/ClickyGame/static/js/runtime-main.1d742c2c.js.map",
-    "static/js/2.213308e9.chunk.js": "/ClickyGame/static/js/2.213308e9.chunk.js",
-    "static/js/2.213308e9.chunk.js.map": "/ClickyGame/static/js/2.213308e9.chunk.js.map",
-    "index.html": "/ClickyGame/index.html",
-    "precache-manifest.7a3f215c0fa8fc3d51f936fcd73f374a.js": "/ClickyGame/precache-manifest.7a3f215c0fa8fc3d51f936fcd73f374a.js",
-    "service-worker.js": "/ClickyGame/service-worker.js",
-    "static/css/main.bcbe7034.chunk.css.map": "/ClickyGame/static/css/main.bcbe7034.chunk.css.map",
-    "static/js/2.213308e9.chunk.js.LICENSE.txt": "/ClickyGame/static/js/2.213308e9.chunk.js.LICENSE.txt"
+    "main.css": "/zacme.github.io/ClickyGame/static/css/main.bcbe7034.chunk.css",
+    "main.js": "/zacme.github.io/ClickyGame/static/js/main.cc241500.chunk.js",
+    "main.js.map": "/zacme.github.io/ClickyGame/static/js/main.cc241500.chunk.js.map",
+    "runtime-main.js": "/zacme.github.io/ClickyGame/static/js/runtime-main.c6b15046.js",
+    "runtime-main.js.map": "/zacme.github.io/ClickyGame/static/js/runtime-main.c6b15046.js.map",
+    "static/js/2.213308e9.chunk.js": "/zacme.github.io/ClickyGame/static/js/2.213308e9.chunk.js",
+    "static/js/2.213308e9.chunk.js.map": "/zacme.github.io/ClickyGame/static/js/2.213308e9.chunk.js.map",
+    "index.html": "/zacme.github.io/ClickyGame/index.html",
+    "precache-manifest.d684fff399718469dc13dca18451ff74.js": "/zacme.github.io/ClickyGame/precache-manifest.d684fff399718469dc13dca18451ff74.js",
+    "service-worker.js": "/zacme.github.io/ClickyGame/service-worker.js",
+    "static/css/main.bcbe7034.chunk.css.map": "/zacme.github.io/ClickyGame/static/css/main.bcbe7034.chunk.css.map",
+    "static/js/2.213308e9.chunk.js.LICENSE.txt": "/zacme.github.io/ClickyGame/static/js/2.213308e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d742c2c.js",
+    "static/js/runtime-main.c6b15046.js",
     "static/js/2.213308e9.chunk.js",
     "static/css/main.bcbe7034.chunk.css",
     "static/js/main.cc241500.chunk.js"
